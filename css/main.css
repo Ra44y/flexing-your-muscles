@@ -20,8 +20,8 @@ img {
 .footer {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
   align-items: center;
+  flex-wrap: wrap;
   padding: 1.5rem 0;
   background-color: #8bc9d9;
   border-top: 3px solid #005e76;
